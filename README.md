@@ -42,7 +42,7 @@ A bootstrap test (re-sampling the test policies) gave 95% intervals that exclude
 
 ## How to run
 
-1. Open `glm_vs_xgb_agent.ipynb` in Google Colab.
+1. Open `glm_vs_xgb_agent.ipynb_(1)` in Google Colab.
 2. Get a free Gemini API key at https://aistudio.google.com/apikey and add it in Colab's Secrets panel (key icon) as `GOOGLE_API_KEY`, with notebook access on. Never paste the key into the notebook.
 3. Run all cells. If the model name `gemini-3.5-flash-lite` errors, switch to a current Gemini model name in section 8.
 
